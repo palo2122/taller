@@ -6,3 +6,5 @@
 * cartuchera
 * liquipaiper
 * cartulina
+* mochila
+* diccionario
