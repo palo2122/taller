@@ -6,3 +6,5 @@
 * cartuchera
 * liquipaiper
 * cartulina
+* vocabulario
+* letras
