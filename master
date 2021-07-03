@@ -1,0 +1,73 @@
+[33mcommit a52c2f267788c4412ae12dfe7e3cbbc0ea6c9eeb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 890a71d 5e71066
+Author: Nando <fernan.28.flo@gmail.com>
+Date:   Fri Jul 2 21:56:53 2021 -0500
+
+    solucionado el problema de las ramas
+
+[33mcommit 890a71d8dc024a6c336cf128a57ded9632cfd91a[m
+Author: Nando <fernan.28.flo@gmail.com>
+Date:   Fri Jul 2 21:55:21 2021 -0500
+
+    agregando cosas que se borraron
+
+[33mcommit 5e710664eb00eb1a51a07183c1da9ff5b1156738[m[33m ([m[1;32mescuela[m[33m)[m
+Author: Nando <fernan.28.flo@gmail.com>
+Date:   Fri Jul 2 21:54:12 2021 -0500
+
+    añadiendo mas cosas a la lista escolar
+
+[33mcommit 1b53ef07c60f580792f97c7ca4dfa2dc7788de2c[m
+Merge: 18ba94a fcc45f0
+Author: Nando <fernan.28.flo@gmail.com>
+Date:   Fri Jul 2 21:48:24 2021 -0500
+
+    solucion del conflicto de las dos ramas de la lista musical
+
+[33mcommit 18ba94a74e81b5745396eb24639a082b8843d24c[m
+Author: Nando <fernan.28.flo@gmail.com>
+Date:   Fri Jul 2 21:44:58 2021 -0500
+
+    agregando al master
+
+[33mcommit fcc45f0da97be0ea1fdc15858dfba08e184ef9ee[m[33m ([m[1;32mmusica[m[33m)[m
+Author: Nando <fernan.28.flo@gmail.com>
+Date:   Fri Jul 2 21:43:13 2021 -0500
+
+    agrego un nuevo instrument
+
+[33mcommit d523051eb7f8ad75b472524c204e8c99a3ba7625[m
+Author: Nando <fernan.28.flo@gmail.com>
+Date:   Fri Jul 2 21:33:53 2021 -0500
+
+    agregando lista instrumentos
+
+[33mcommit dc9b9e72e237a8a4c032e264db9d20eba83de3b4[m
+Author: Nando <fernan.28.flo@gmail.com>
+Date:   Fri Jul 2 21:14:12 2021 -0500
+
+    revobinando
+
+[33mcommit d3b267bdceb2a47c410e15cc519d3b9a25877192[m
+Author: Nando <fernan.28.flo@gmail.com>
+Date:   Fri Jul 2 20:52:46 2021 -0500
+
+    agregando una lista de cosas
+
+[33mcommit 0808093051c902d1b5392140c3d23f50c17d5f4e[m
+Author: Nando <fernan.28.flo@gmail.com>
+Date:   Fri Jul 2 20:51:09 2021 -0500
+
+    agregando lista escolar
+
+[33mcommit 34b264b732c0d5eadf49d3417a6f717a0d81ae51[m
+Author: Nando <fernan.28.flo@gmail.com>
+Date:   Fri Jul 2 20:38:50 2021 -0500
+
+    agrego lista completa para mañana
+
+[33mcommit 12a73ff803a623af186e12937078b143a29acd43[m
+Author: Nando <fernan.28.flo@gmail.com>
+Date:   Fri Jul 2 19:54:04 2021 -0500
+
+    agregando lista de compras
