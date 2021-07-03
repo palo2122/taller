@@ -7,3 +7,4 @@
 * lavadora
 * camara
 * mando
+* mando xbox
