@@ -2,3 +2,7 @@
 * lapiz
 * borrador
 * cuaderno
+* pincel
+* cartuchera
+* liquipaiper
+* cartulina

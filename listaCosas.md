@@ -3,3 +3,7 @@
 * celular
 * ps4
 * xbox x
+* refrigerador
+* lavadora
+* camara
+* mando
