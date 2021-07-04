@@ -3,3 +3,4 @@
 * carnada
 * bote
 * cestas para los pescados
+* pescado
